@@ -1,2 +1,2 @@
-# DuckTechs-Mega-unified-blocklist
+# DuckTech's-Mega-unified-blocklist
 A combination of blocklist
